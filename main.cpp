@@ -1,5 +1,5 @@
 //	ASSIGNMENT 3 - CSC-328 - DATA STRUCTURES
-//	GROUP MEMBERS:  Hailey Maimone, Ricky Peddicord, Kelli Huff, Michael Mickey
+//	Hailey Maimone
 //
 //  PROGRAM SYNOPSIS:  Program reads postfix expressions from input file,
 //  	"input.txt".  The values in the expression are read into a 
